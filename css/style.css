@@ -2,14 +2,15 @@ style.css
 body {
    margin: auto;
    border-width: 1080;
-   background-color: solid grey;
    }
 header {
    text-align: center;
 }
 span {
-
+   font-family: verdana; font-size: 16px;
+   font-style: thin;
 }
+
 p {
    font-family: verdana; font-size: 12px;
    background-color: #d2b48c;
@@ -22,6 +23,7 @@ h2 {
    font-family: Helvetica; font-style: thin;
    font-size: 16px;
 }
-head {
-   text-align: center;
+li {
+   font-family: Helvetica; font-style: bold;
+   font-size: 18px;
 }
