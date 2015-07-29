@@ -7,7 +7,7 @@ header {
    text-align: center;
 }
 span {
-   font-family: verdana; font-size: 16px;
+   font-family: helvetica; font-size: 16px;
    font-style: thin;
 }
 
@@ -16,7 +16,7 @@ p {
    background-color: #d2b48c;
 }
 }
-li {
+h2 & h3 {
    font-family: Helvetica; font-style: bold;
    font-size: 18px;
 }
